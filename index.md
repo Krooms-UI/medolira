@@ -51,6 +51,8 @@ Cette politique pourra être mise à jour si les fonctions de l’application ou
 
 ## Contact
 
-Pour une question concernant la confidentialité ou Medolira, utilisez le [suivi public du projet sur GitHub](https://github.com/Krooms-UI/medolira/issues).
+Pour toute question concernant la confidentialité ou Medolira, écrivez à [medolira.app@gmail.com](mailto:medolira.app@gmail.com).
+
+Vous pouvez également utiliser le [suivi public du projet sur GitHub](https://github.com/Krooms-UI/medolira/issues).
 
 Les demandes GitHub sont publiques : **n’y publiez aucune donnée médicale, ordonnance, identité complète ou autre information sensible**.
